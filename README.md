@@ -1,2 +1,2 @@
-# astar
-Simple astar implementation
+# Astar
+Enkel A* implementasjon
